@@ -1,0 +1,19 @@
+{
+  "format": "c30-update/1",
+  "product": "C30 Social Publisher",
+  "channel": "stable",
+  "version": "0.12.0",
+  "pub_date": "2026-10-10T14:05:24Z",
+  "notes": "공식 공개 업데이트 채널 지원(설정에서 확인 주소 표시), 공개 채널용 릴리스 도구 추가. 데이터 구조 변경 없음.",
+  "release_page": "https://github.com/akito1179/c30-social-publisher-updates/releases/tag/v0.12.0",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://example.com/C30-Social-Publisher_0.12.0_x64-setup.exe",
+      "sha256": "B2F2E5AEDD3E71FA5C57A5570A7ECE4E60DD1B8CE65B6D78D4B674D5A24A1851",
+      "size": 5459525,
+      "signing": {
+        "authenticode": "unsigned"
+      }
+    }
+  }
+}
